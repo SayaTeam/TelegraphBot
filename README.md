@@ -1,5 +1,4 @@
-# 📤 Telegraph-Uploader
-
+# TelegraphBot
 
 
 **Telegraph-Uploader** is a **Telegram bot** that helps you upload **photos** and create **instant-view posts**.  
