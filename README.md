@@ -1,7 +1,6 @@
 # 📤 Telegraph-Uploader
 
-[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Ns-AnoNymouS/Telegraph-Uploader)
-[![Ask Me Anything!](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://telegram.dog/Ns_AnoNymouS)
+
 
 **Telegraph-Uploader** is a **Telegram bot** that helps you upload **photos** and create **instant-view posts**.  
 Since **Telegra.ph is banned in India**, this bot uses **Graph.org** for posts and **ImgBB/Envs.sh** for image hosting.
@@ -15,26 +14,7 @@ Since **Telegra.ph is banned in India**, this bot uses **Graph.org** for posts a
 - ⚡ **Fast & Lightweight** → Powered by [Pyrogram](https://docs.pyrogram.org/).
 
 
-## 📷 Features & Examples
-
-### 🖼️ Upload Photo
-
-<img src="screenshots/photo_upload.png" width="300">
-
-
-### 📰 Graph.org Post
-
-<img src="screenshots/graph_post.png" width="300">
-
-
-### 🤖 Bot Start Menu
-
-<img src="screenshots/start_menu.png" width="300">
-
-
 ## 🚀 Easy Deployment
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ns-AnoNymouS/Telegraph-Uploader)
 
 1. Get your **API HASH** & **API ID** from [my.telegram.org](https://my.telegram.org/auth?to=apps).
 2. Get your **Bot Token** from [@BotFather](https://t.me/BotFather).
@@ -117,14 +97,6 @@ Since **Telegra.ph is banned in India**, this bot uses **Graph.org** for posts a
 - [Graph.org API](https://graph.org/api) ✨
 - [ImgBB API](https://api.imgbb.com/) 🖼️
 
-
-## 👨🏻‍💻 Developer
-
-[<img src="https://avatars.githubusercontent.com/u/70622189?v=4" width="100" style="border-radius:50%" alt="Developer Image">](https://github.com/Ns-AnoNymouS)
-
-**Name**: Naveen Kumar  
-**GitHub**: [Ns-AnoNymouS](https://github.com/Ns-AnoNymouS)  
-**Telegram**: [NS AnoNymouS](https://telegram.dog/The_proGrammerr)
 
 
 ## 🤝 Contributions
